@@ -12,7 +12,7 @@ Welcome to the [gohugo](https://gohugo.io/) template to create rich content [aca
 Install the [gohugo](https://gohugo.io/) [static site generator](https://jamstack.org/generators/) then:
 
 ```sh
-$git clone https://github.com/VisualComputing/showcase
+$git clone https://github.com/objetos/showcase
 $cd showcase
 $git submodule update --init --recursive
 $hugo server -D --disableFastRender
@@ -25,7 +25,7 @@ The **showcase** template uses the [hugo-book](https://github.com/alex-shpak/hug
 {{< /hint >}}
 
 {{< hint info >}}
-If you forked the repo don't forget to activate the [actions](https://github.com/VisualComputing/showcase/actions).
+If you forked the repo don't forget to activate the [actions](https://github.com/objetos/showcase/actions).
 {{< /hint >}}
 
 {{< hint info >}}
