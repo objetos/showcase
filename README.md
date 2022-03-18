@@ -13,6 +13,6 @@ $git submodule update --init --recursive
 $hugo server -D --disableFastRender
 ```
 
-Deploy with `$git push` after redefined `baseURL` in `config.toml` which should point to your actual public remote.
+Deploy with `$git push` after redefining `baseURL` in `config.toml` which should point to your actual public remote.
 
 Note that the **showcase** template uses the [hugo-book](https://github.com/alex-shpak/hugo-book) theme by default. Check the [hugo themes site](https://themes.gohugo.io/) if you wish to add other ones.
