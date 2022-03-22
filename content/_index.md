@@ -31,3 +31,7 @@ If you forked the repo don't forget to activate the [actions](https://github.com
 {{< hint info >}}
 If you changed the repo name don't forget to update all the js related (both sketches and assets) urls.
 {{< /hint >}}
+
+{{< hint info >}}
+If you are unfamiliar with [git](https://git-scm.com/) check out this [tutorial series](https://thecodingtrain.com/beginners/git-and-github/) and also this [presentation](https://objetos.github.io/git).
+{{< /hint >}}
